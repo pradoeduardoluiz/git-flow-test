@@ -1,1 +1,2 @@
 Primeira feature que sera comitada
+Segunda feature que sera comitada
